@@ -230,7 +230,7 @@ let users=[
 }
 }
 ]
-//write a script to diaplay the user data in Html Table 
+//write a script to diaplay the user data in Html Table in the browser
 function dispalyData(){
     //alert("Test Case 123")
     let rows="";
