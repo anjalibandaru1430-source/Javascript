@@ -1,4 +1,4 @@
-let price=299
+let price=290
 let ratinng=4.5
 let productName="Smartphone"
 let delivery='y'
