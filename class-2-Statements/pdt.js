@@ -1,6 +1,6 @@
 let price=290
 let ratinng=4.5
-let productName="Smartphone"
+let productName="Smartphones"
 let delivery='y'
 let discount=true;
 let avail;
